@@ -1,0 +1,2 @@
+words_list = [
+    'apple', 'banana', 'grape', 'orange', 'kiwi', 'mango', 'peach', 'pear', 'plum', 'cherry', 'automobile', 'bicycle', 'bus', 'car', 'motorcycle', 'train', 'airplane', 'boat', 'ship', 'submarine', 'rocket', 'computer', 'laptop', 'tablet', 'smartphone', 'television', 'camera', 'printer', 'scanner', 'projector', 'speaker']
